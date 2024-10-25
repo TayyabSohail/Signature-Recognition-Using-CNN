@@ -1,5 +1,9 @@
 # Signature-Recognition-Using-CNN
 
+## RESEARCH PAPER: 
+[Report_Signature_Recognition_using_CNN.pdf](https://github.com/user-attachments/files/17523897/Report_Signature_Recognition_using_CNN.pdf)
+
+
 
 This project focuses on signature recognition by developing a program to identify individuals based on their signature images. Utilizing Convolutional Neural Networks (CNNs), the project processes and segments signatures, performs a train-test split, and evaluates the effectiveness of CNN-based feature extraction compared to traditional methods like HOG (Histogram of Oriented Gradients) and SIFT (Scale-Invariant Feature Transform).
 
